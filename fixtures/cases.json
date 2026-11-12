@@ -1,0 +1,13 @@
+[
+  {
+    "platform": "portal-a",
+    "case_id": "CASE-1"
+  },
+  {
+    "platform": "portal-b",
+    "case_id": "CASE-2"
+  },
+  {
+    "platform": "portal-a"
+  }
+]
