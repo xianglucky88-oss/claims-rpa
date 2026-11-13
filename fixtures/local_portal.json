@@ -1,0 +1,22 @@
+{
+  "pages": {
+    "portal-a": {
+      "login_ok": true,
+      "structure_ok": true,
+      "cases": {
+        "CASE-1": {"status": "approved", "receipt_id": "A-1"},
+        "CASE-2": {"status": "pending", "receipt_id": "A-2"},
+        "CASE-3": {"status": "rejected", "receipt_id": "A-3"}
+      }
+    },
+    "portal-b": {
+      "login_ok": true,
+      "structure_ok": true,
+      "cases": {
+        "CASE-1": {"status": "pending", "receipt_id": "B-1"},
+        "CASE-2": {"status": "approved", "receipt_id": "B-2"},
+        "CASE-4": {"status": "paid", "receipt_id": "B-4"}
+      }
+    }
+  }
+}
